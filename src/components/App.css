@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	box-sizing: border-box;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+
+/* COLORS: font */
+
+.font-black {
+  color: #000000;
+}
+
+.font-wine {
+  color: #821D38;
+}
+
+.font-beige {
+  color: #FFF7BC;
+}
+
+
+/* COLORS: background  */
+
+.bg-black {
+  background-color: #000000;
+}
+
+.bg-wine {
+  background-color: #821D38;
+}
+
+.bg-beige {
+  background-color: #FFF7BC;
+}
